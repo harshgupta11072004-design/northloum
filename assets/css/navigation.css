@@ -68,14 +68,19 @@
 
 .nav-header {
   float: left;
+  line-height: normal;
+  display: flex;
 }
 
 .navigation-hidden .nav-header {
   display: none;
 }
-
+.nav-brand h2{
+  margin-bottom: 0;
+}
 .nav-brand {
-  line-height: 70px;
+  /* line-height: 70px; */
+  height: none;
   padding: 0 15px;
   color: #70798b;
   font-size: 24px;
