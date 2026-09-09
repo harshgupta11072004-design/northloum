@@ -2504,3 +2504,62 @@ a.cencel-preloader {
   border-radius: 36px;
   color: #001ec8;
   font-size: 14px; }
+
+
+    .privacy-policy {
+    /* max-width: 900px; */
+    margin: 0 auto;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+  }
+
+  .privacy-policy h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+
+  .privacy-policy h2 {
+    font-size: 24px;
+    margin-top: 35px;
+    margin-bottom: 12px;
+  }
+
+  .privacy-policy h3 {
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+
+  .privacy-policy p {
+    margin-bottom: 15px;
+  }
+
+  .privacy-policy ul {
+    padding-left: 25px;
+    margin-bottom: 20px;
+  }
+
+  .privacy-policy li {
+    margin-bottom: 8px;
+  }
+
+  .privacy-policy a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  .privacy-policy a:hover {
+    text-decoration: underline;
+  }
+
+  .grievance-details {
+    /* background: #f7f7f7; */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 15px;
+  }
+
+  .grievance-details p {
+    margin: 5px 0;
+  }
